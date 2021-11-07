@@ -1,0 +1,73 @@
+body{
+    background-color:black;
+}
+ .header{
+     border-style: groove;
+     width:600px;
+     height: 700px;
+     background-color:;
+     border-color: black;
+     background-image:url('image/pngtree-emoji-floating-changeable-emoji-background-image_400743.jpg')
+ }
+ .header img{
+     border-radius: 90px;
+     border-style:hidden; 
+     width:200px;
+     height:150px;
+     opacity:none;
+ }
+ .header input{
+     width:300px;
+     height:30px;
+     border-radius:80px;
+     background-color:;
+     color:;
+     box-shadow:2px 2px 2px  black;
+ }
+ .footer img{
+     width:40px;
+     height:40px;
+     padding:12px 11px;
+     border-radius:60px;
+     background-color:white;
+     box-shadow:2px 2px 2px ;
+ }
+ .header button{
+     width:90px;
+     height:30px;
+     background-color:black;
+     color:white;
+     border-radius: 90px;
+ }
+ .header img:hover{
+     background-color:black;
+     
+ }
+ .header button:hover{
+     background-color:black;
+     color:red;
+ }
+  h1{
+      color:white;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      text-shadow: 2px 2px 2px black;
+  }
+  .we{
+      width:auto;
+      height:80px;
+      border-style:groove;
+      background-color:rgb(100,20,19);
+  }
+  .foottext{
+      width:auto;
+      height:80px;
+       background-color:rgb(100,20,19);
+      margin-bottom: 30px;
+  }
+  .foottext p{
+      font-size:20px;
+      padding-top:20px;
+      color:white;
+      text-shadow: 3px 3px 3px black;
+      margin-left: 20px;
+  }
